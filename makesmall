@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+
+magick convert $1 -resize 1000x480\> $1
